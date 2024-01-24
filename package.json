@@ -1,0 +1,24 @@
+{
+  "name": "@frackinfamous/github-action",
+  "version": "0.1.0",
+  "description": "github action template",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github-aciton"
+  },
+  "keywords": [
+    "github",
+    "actions",
+    "template",
+    "starter"
+  ],
+  "author": "FrackinFamous",
+  "license": "ISC",
+  "publishConfig": {
+  "@frackinfamous:registry": "https://npm.pkg.github.com"
+  }
+}
